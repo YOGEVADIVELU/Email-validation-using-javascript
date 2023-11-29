@@ -1,0 +1,49 @@
+body {
+    background-color: rgb(34, 56, 56);
+  }
+  h2{
+    text-align: center;
+    color: beige;
+    
+  }
+  
+  li {
+    list-style-type: none;
+    font-size: 20px;
+  }
+  
+  .mail {
+    padding-top: 10px;
+    padding-top: 10px;
+    width: 500px;
+    border: 1px solid red;
+    background-color: burlywood;
+    margin: auto;
+  }
+  
+  .mail h2 {
+    font-size: 30px;
+    margin-left: 40px;
+    color:chocolate;
+    text-transform: uppercase;
+  }
+  
+  input {
+    font-size: 25px;
+  }
+  
+  input[type="submit"] {
+    font-size: 30px;
+    text-transform: uppercase;
+  }
+  
+  input[type="submit"]:hover {
+    background-color: blue;
+    color: white;
+    border-radius: 6px;
+    border:1px solid white;
+  }
+  input:focus {
+    background-color: rgb(167, 198, 219);
+  }
+  
